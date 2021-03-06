@@ -1,0 +1,24 @@
+{
+  "name": "note-were-thee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickhill543/note-were-thee.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rickhill543/note-were-thee/issues"
+  },
+  "homepage": "https://github.com/rickhill543/note-were-thee#readme"
+}
