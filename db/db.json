@@ -1,12 +1,14 @@
 {
-    "notes": [
-        {
-            "title": "test title",
-            "text": "test text"
-        },
-        {
-            "title": "test title 2",
-            "text": "test text 2"
-        }
-    ]
-  }
+  "notesArray": [
+    {
+      "title": "This is a title",
+      "text": "This is some text",
+      "id": "9zvp9oi8wklzs4vxt"
+    },
+    {
+      "title": "This is another title",
+      "text": "and yet some more text",
+      "id": "9zvp9oi8wklzs5a4q"
+    }
+  ]
+}
